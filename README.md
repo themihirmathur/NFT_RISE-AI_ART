@@ -6,6 +6,8 @@
 and captivating artworks. This application combines the cutting-edge capabilities of the OpenAI API with the seamless integration 
 of a web-based platform, allowing users to generate stunning images with ease.
 
+![NFT RISE -AI ART Thumbnail](https://github.com/themihirmathur/NFT_RISE-AI_ART/assets/92594107/67e1e3c6-3ca8-4efc-b92c-9210640f6d18)
+
 ## TECHNOLOGY STACKS & TOOLS USED
 
 - HTML: Markup language used for structuring the web pages.
