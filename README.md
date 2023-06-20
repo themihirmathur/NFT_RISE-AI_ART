@@ -103,7 +103,7 @@ To contribute, please follow these steps:
 
 ## CONCLUSION
 
-'NFT RISE - AI ART | A.I. IMAGE GENERATION APP' is an innovative application that combines the power of artificial intelligence with 
+`NFT RISE - AI ART | A.I. IMAGE GENERATION APP` is an innovative application that combines the power of artificial intelligence with 
 web-based technology to revolutionize the creation of visual artworks. By leveraging the OpenAI API and integrating with Cloudinary, 
 users can generate unique and captivating images, opening up new possibilities for artistic expression. 
 With a commitment to continuous improvement and community collaboration, we aim to shape the future of art through this project.
