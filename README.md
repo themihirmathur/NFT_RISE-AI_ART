@@ -12,11 +12,12 @@ of a web-based platform, allowing users to generate stunning images with ease.
 
 - HTML: Markup language used for structuring the web pages.
 - Tailwind CSS: A utility-first CSS framework for rapid UI development.
-- MongoDB: A NoSQL database used for storing and managing data.
+- [Visual Studio Code](https://code.visualstudio.com/): The integrated development environment used for coding and managing the project.
+- [MongoDB](https://www.mongodb.com/): A NoSQL database used for storing and managing data.
 - Express: A web application framework for Node.js, providing robust features for web development.
 - JavaScript: A programming language used for implementing interactive features.
-- Cloudinary: A cloud-based media management platform used for storing and manipulating images.
-- OpenAI API: A powerful API that provides access to state-of-the-art artificial intelligence models.
+- [Cloudinary](https://cloudinary.com/): A cloud-based media management platform used for storing and manipulating images.
+- [OpenAI API](https://openai.com/blog/openai-api): A powerful API that provides access to state-of-the-art artificial intelligence models.
 - dotenv: A module for loading environment variables from a .env file.
 - mongoose: MongoDB object modeling for Node.js.
 - React.js: A JavaScript library for building user interfaces.
