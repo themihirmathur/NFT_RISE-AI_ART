@@ -88,6 +88,8 @@ Artificial Intelligence to Create Visually Stunning and Unique Artworks. By cont
 A.I. image generation algorithms and expanding the features of the application, we aim to push the boundaries of creativity and 
 Redefine the art world.
 
+<kbd><img width="1400" height="480" alt="image" src="https://apicms.thestar.com.my/uploads/images/2022/12/12/1857387.jpg">
+
 ## CONTRIBUTION
 
 We Welcome Contributions from the open-source community to enhance the features and functionalities of the NFT RISE - AI ART Application. 
