@@ -110,4 +110,4 @@ With a commitment to continuous improvement and community collaboration, we aim 
 
 For more information, please refer to the [Documentation](https://github.com/themihirmathur/NFT_RISE-AI_ART) provided.
 
-Thank you for using WHATS-CHAT!
+Thank you for using NFT RISE - AI ART!
