@@ -88,7 +88,7 @@ Artificial Intelligence to Create Visually Stunning and Unique Artworks. By cont
 A.I. image generation algorithms and expanding the features of the application, we aim to push the boundaries of creativity and 
 Redefine the art world.
 
-<kbd><img width="1400" height="480" alt="image" src="https://apicms.thestar.com.my/uploads/images/2022/12/12/1857387.jpg">
+![Visionopenai](https://github.com/themihirmathur/NFT_RISE-AI_ART/assets/92594107/eb334c67-abb2-4d1d-b92e-2a5d096d450b)
 
 ## CONTRIBUTION
 
